@@ -1,0 +1,17 @@
+./module < Datacards/dataExcKMR_GG - stuck during seach for maximum weight
+
+./module < ./Datacards/dataExcKMR_Higgs - stuck during initiale seach for maximumweight, stuck with WARNING:   X  VALUE IS OUT OF RANGE   x= .12965E-92
+
+./module < ./Datacards/dataExcCHIDe_GG 
+
+NUMBER OF EVENTS   =           1
+          NUMBER OF WEIGHTS  =     1000001
+          MEAN VALUE OF WGT  =  0.0000E+00
+          RMS SPREAD IN WGT  =  0.0000E+00
+          ACTUAL MAX WEIGHT  =  0.0000E+00
+          ASSUMED MAX WEIGHT =  1.0000E+00
+
+          PROCESS CODE IPROC =       16012
+          CROSS SECTION (PB) =   0.000    
+          ERROR IN C-S  (PB) =   0.000    
+          EFFICIENCY PERCENT =   0.000 
